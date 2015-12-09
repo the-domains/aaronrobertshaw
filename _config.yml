@@ -1,6 +1,6 @@
 name: AaronRobertshaw
 favicon: null
-layout_spectrum: 0.37117386306636035
+layout_spectrum: 1
 typography_spectrum: 0.85957
 title: Aaron Test Site
 cta:
@@ -22,8 +22,8 @@ color:
     - '#584125'
     - '#7a642e'
     - '#637e81'
-  brandStrength: 0.25
-  lightness: 0.4375
-  saturation: 0.44724227068945765
-  rhythmicContrast: 0.45145009621046484
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
