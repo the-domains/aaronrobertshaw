@@ -1,0 +1,28 @@
+name: AaronRobertshaw
+favicon: null
+layout_spectrum: 0.37117386306636035
+typography_spectrum: 0.5976795135065913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3549800703767687
+  lightness: 0.4459246383048594
+  saturation: 0.44724227068945765
+  rhythmicContrast: 0.45145009621046484
+purpose: []
